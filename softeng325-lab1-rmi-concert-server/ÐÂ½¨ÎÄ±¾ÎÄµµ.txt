@@ -1,0 +1,3 @@
+
+C:\Users\David\Downloads\2017JavaProjects\softeng325-dev\softeng325-lab1-rmi-con
+cert\softeng325-lab1-rmi-concert-server\target>java -cp softeng325-lab1-rmi-concert-server-0.0.1-SNAPSHOT-jar-with-dependencies.jar nz.ac.auckland.concert.server.Server
